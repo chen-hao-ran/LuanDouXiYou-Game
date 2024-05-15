@@ -12,7 +12,7 @@ Zafu Windows Visualization Final Work
 
 ### Todo List
 > - [x] 撰写功能文档
-> - [ ] 制作广寒宫Demo
+> - [x] 制作仅有场景和人物的Demo
 > - [ ] 制作素材
 > - [ ] 制作主场景
 > - [ ] 开发单一角色、单一关卡
@@ -28,5 +28,5 @@ Zafu Windows Visualization Final Work
 ---
 
 ### Coding Standards
-> 变量: 小写，中间用下划线(_)分隔
+> 变量: 小写，中间用下划线(_)分隔 \
 > 函数: 单词首字母大写，不用下划线分隔
