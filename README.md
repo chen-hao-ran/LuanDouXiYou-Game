@@ -4,8 +4,8 @@ Zafu Windows Visualization Final Work
 ---
 
 ### Env & Config
-> OS: Windows
-> IDE: Visual Studio 2022
+> OS: Windows \
+> IDE: Visual Studio 2022 \
 > Language: C
 
 ### Todo List
