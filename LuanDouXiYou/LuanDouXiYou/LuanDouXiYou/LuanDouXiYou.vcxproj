@@ -127,11 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Boss.h" />
+    <ClInclude Include="Common.h" />
+    <ClInclude Include="Enemy.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="LuanDouXiYou.h" />
+    <ClInclude Include="MainScene.h" />
+    <ClInclude Include="Replay.h" />
     <ClInclude Include="Resource.h" />
+    <ClInclude Include="Role.h" />
+    <ClInclude Include="Scene.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="Tools.h" />
+    <ClInclude Include="UI.h" />
+    <ClInclude Include="WindowConfig.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LuanDouXiYou.cpp" />

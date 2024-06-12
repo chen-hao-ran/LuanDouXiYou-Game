@@ -1,16 +1,45 @@
 ﻿  LuanDouXiYou.cpp
-D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\LuanDouXiyou.h(33,2): warning C4091: “typedef ”: 没有声明变量时忽略“WindowConfig”的左侧
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\Common.h(16,1): warning C4005: “FAILED”: 宏重定义
+  (编译源文件“LuanDouXiYou.cpp”)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(29887,1):
+  参见“FAILED”的前一个定义
+  
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\WindowConfig.h(21,2): warning C4091: “typedef ”: 没有声明变量时忽略“WindowConfig”的左侧
   (编译源文件“LuanDouXiYou.cpp”)
   
-D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\LuanDouXiyou.h(74,2): warning C4091: “typedef ”: 没有声明变量时忽略“Role”的左侧
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\Scene.h(33,2): warning C4091: “typedef ”: 没有声明变量时忽略“Scene”的左侧
   (编译源文件“LuanDouXiYou.cpp”)
   
-D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\LuanDouXiyou.h(93,2): warning C4091: “typedef ”: 没有声明变量时忽略“Scene”的左侧
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\Role.h(74,2): warning C4091: “typedef ”: 没有声明变量时忽略“Role”的左侧
   (编译源文件“LuanDouXiYou.cpp”)
   
-D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\LuanDouXiyou.h(115,2): warning C4091: “typedef ”: 没有声明变量时忽略“MainScene”的左侧
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\Enemy.h(58,2): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy”的左侧
   (编译源文件“LuanDouXiYou.cpp”)
   
-D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou.cpp(64,12): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
-D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou.cpp(187,7): warning C4101: “i”: 未引用的局部变量
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\Boss.h(56,2): warning C4091: “typedef ”: 没有声明变量时忽略“Boss”的左侧
+  (编译源文件“LuanDouXiYou.cpp”)
+  
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\UI.h(20,2): warning C4091: “typedef ”: 没有声明变量时忽略“UI”的左侧
+  (编译源文件“LuanDouXiYou.cpp”)
+  
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\UI.h(54,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“LuanDouXiYou.cpp”)
+  
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\UI.h(55,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“LuanDouXiYou.cpp”)
+  
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\UI.h(66,74): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“LuanDouXiYou.cpp”)
+  
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\UI.h(68,74): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“LuanDouXiYou.cpp”)
+  
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\UI.h(81,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“LuanDouXiYou.cpp”)
+  
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\Replay.h(11,2): warning C4091: “typedef ”: 没有声明变量时忽略“Replay”的左侧
+  (编译源文件“LuanDouXiYou.cpp”)
+  
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou.cpp(162,12): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou\LuanDouXiYou.cpp(483,7): warning C4101: “i”: 未引用的局部变量
   LuanDouXiYou.vcxproj -> D:\My_Data\Zafu\2down\Courses\Windows可视化\Final Work\LuanDouXiYou-Game\LuanDouXiYou\LuanDouXiYou\x64\Debug\LuanDouXiYou.exe
